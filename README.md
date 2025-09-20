@@ -1,14 +1,5 @@
 # Hi there, I'm Maksim 👋
 
-<!-- 
-🎯 Customization Tips:
-- Replace [Your Name] with your actual name
-- Update the title/role to match your profession
-- Add your own technologies, projects, and contact information
-- Customize the fun facts and personal touches
-- Update social media links and contact methods
--->
-
 ## 🚀 About Me
 
 I'm a Middle Go Backend Engineer passionate about delivering high quality scalable systems. I love building innovative solutions and contributing to open-source projects.
@@ -21,11 +12,11 @@ I'm a Middle Go Backend Engineer passionate about delivering high quality scalab
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -58,7 +49,7 @@ CoffeeScout is a mobile application that allows users to find coffee shops in Mo
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- This section can be auto-updated with GitHub Actions -->
-- [To Production in 4 weeks]([https://yourblog.com/post1](https://www.linkedin.com/posts/maxim-doremi_golang-backend-serverless-activity-7365128183626506240-pwXj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEagskEBPfk7q7djbPXTfv8D0iPvpFkZz1g))
+- [To Production in 4 weeks]([https://www.linkedin.com/posts/maxim-doremi_golang-backend-serverless-activity-7365128183626506240-pwXj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEagskEBPfk7q7djbPXTfv8D0iPvpFkZz1g])
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with Me
@@ -69,14 +60,6 @@ CoffeeScout is a mobile application that allows users to find coffee shops in Mo
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxim.r.ivanov@gmail.com)
 
 </div>
-
-## 🎯 Current Goals
-
-- 🌟 Contribute to more open-source projects
-- 📚 Learn [Technology/Skill you want to learn]
-- 🏆 Build [Specific project or goal]
-- 🤝 Network with fellow developers
-- 📝 Write more technical blog posts
 
 ## 💡 Fun Facts
 
