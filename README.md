@@ -49,7 +49,7 @@ CoffeeScout is a mobile application that allows users to find coffee shops in Mo
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- This section can be auto-updated with GitHub Actions -->
-- [To Production in 4 weeks]([https://www.linkedin.com/posts/maxim-doremi_golang-backend-serverless-activity-7365128183626506240-pwXj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEagskEBPfk7q7djbPXTfv8D0iPvpFkZz1g])
+- [To Production in 4 weeks](https://www.linkedin.com/posts/maxim-doremi_golang-backend-serverless-activity-7365128183626506240-pwXj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEagskEBPfk7q7djbPXTfv8D0iPvpFkZz1g)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with Me
@@ -72,12 +72,4 @@ CoffeeScout is a mobile application that allows users to find coffee shops in Mo
   <img src="https://komarev.com/ghpvc/?username=Doremi203&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
 
-<div align="center">
-  
-*"The best way to predict the future is to create it."* - Peter Drucker
-
-</div>
-
 ---
-
-⭐️ From [Doremi203](https://github.com/Doremi203)
